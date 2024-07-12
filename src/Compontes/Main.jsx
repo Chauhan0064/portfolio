@@ -9,8 +9,8 @@ import reactlogo from './images/Skills-logo/react.png'
 const Main = () => {
   return (
     <>
-    <div className="container-fluid">
-     <div className="row">
+    <div className="container-fluid main">
+     <div className="row ">
     <div className="col-md-6 title">
       <div className="main-div">
         <h3 className='hello'>Hello,</h3>
